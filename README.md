@@ -1,3 +1,3 @@
 # Free hosting
 
-[10 hosts gratuitos para páginas web](https://github.com/pcrco/free_hosting/blob/main/hostings_gratuits.md)
+[10 hosts gratuitos para páginas web](https://github.com/pcrco/free_hosting/blob/main/hosting_gratuits.md)
