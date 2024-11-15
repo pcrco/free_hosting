@@ -1,12 +1,10 @@
 # Lista de hosts de páginas web gratuitos
 
-1. [HubSpot](https://www.hubspot.es/)
-2. [Hostinger](https://www.hostinger.es/)
-3. [Google Cloud](cloud.google.com)
-4. [AwardSpace](https://www.awardspace.com/)
-5. [LucusHost](https://www.lucushost.com/)
-6. [Free Hosting](https://www.freehosting.com/)
-7. [InfinityFree](https://www.infinityfree.com/)
-8. [Cowabi](https://cowabi.com/)
-9. [Wix](https://es.wix.com/)
-10. [Byet](https://byet.host/)
+
+| Proveedor      | Espacio de almacenamiento | Ancho de banda | Dominios y subdominios | Certificado SSL | Publicidad | Otras características |
+|----------------|------------------------|----------------|-----------------------|----------------|------------|--------------------------------|
+| [Google Cloud](cloud.google.com) | 15 GB | 2Gbps por CPU virtual | Permite dominios personalizados | Si | No | Base de datos y soporte para CMS |
+| [Free Hosting](https://www.freehosting.com/) | 10 GB | Ilimitado | Dominios, no subdominios | Pagando | Puedes poner anuncios | Compatible con MySQL |
+| [InfinityFree](https://www.infinityfree.com/) | 5 GB | Ilimitado | Dominios y subdominios | SSL gratis | No ponen publicidad | Compatible con MySQL |
+| [Wix](https://es.wix.com/) | 500 MB | 500 MB | Subdominio y dominio | SSL gratis | No | No tiene soporte para WordPress |
+| [Byet](https://byet.host/) | 1 GB | 50 GB | Dominio y subdominio | Solo premium | No | Compatible con MySQL |
