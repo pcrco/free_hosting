@@ -57,17 +57,17 @@ Seguido, crearemos nuestra cuenta para la pagina web. Podemos crear hasta 3.
 
 Esta es la dashboard, donde podemos tanto administrar nuestra pagina como el certificado SSL, el cual es muy fácil de crear, con un par de clicks ya lo tenemos listo.
 
-[home](home.png)
+![home](home.png)
 
-[ssl](sslcert.png)
+![ssl](sslcert.png)
 
 Entrando al panel de control, encontaremos esto, donde podemos administar nuestra página web, encontrar tutoriales sobre como crearla, administrar bases de datos de MySQL y php, administrar dominios...
 
-[ss](pannel.png)
+![ss](pannel.png)
 
 Si vamos a edit website y ponemos nuestra URL, accederemos a una pagina con diferentes plantillas para nuestra web. Una vez la seleccionemos, se nos abre un editor donde podemos personalizarla como queramos dentro de las limitaciones que tenemos por el plan gratuito.
 
-[pa](papaya.png)
+![pa](papaya.png)
 
 Una vez acabada, la podemos publicar simplemente dándole al botón de publicar arriba a la derecha y ya la tendremos lista.
 
