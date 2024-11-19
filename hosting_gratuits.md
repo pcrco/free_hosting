@@ -101,6 +101,6 @@ Una vez terminada, arriba a la derecha tenemos el botón de `publicar`. Al darle
 
 ## Byet hosting
 
-Byet hosting tiene la misma interfaz que InfinityFree, con la misma diferencia de que no es tan facil crear la página. Aquí no tenemos acceso a plantillas, y la pagina nos dice que para crear nuestra web debemos usar otro programa para luego publicarla aquí.
+Byet hosting tiene la misma interfaz que InfinityFree, con la diferencia de que no es tan facil crear la página. Aquí no tenemos acceso a plantillas, y la pagina nos dice que para crear nuestra web debemos usar otro programa para luego publicarla aquí.
 
 ![byet](byethost.png)
