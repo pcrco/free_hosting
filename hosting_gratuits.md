@@ -47,6 +47,7 @@ Vamos a poner como ejemplo que quieres mostrar lo que se ve en tu `README.md`:
 
 https://pcrco.github.io/boca_alpargata/
 
+
 ## InfinityFree
 
 Para crear una página web, primero nos tenemos que crear una cuenta y seleccionar el plan gratis cuando la creemos.
@@ -71,3 +72,29 @@ Si vamos a edit website y ponemos nuestra URL, accederemos a una pagina con dife
 
 Una vez acabada, la podemos publicar simplemente dándole al botón de publicar arriba a la derecha y ya la tendremos lista.
 
+
+## Wix
+
+Al hacernos nuestra cuenta en Wix, nos da la opción de asistencia con IA. En mi caso, yo lo he rechazado y lo haré paso a paso. 
+
+![wix](wix1.png)
+
+Al entrar por primera vez, nos saltará un tutorial donde nos guiarán 
+
+![wi](wixdominio.png)
+
+Una vez completado, ahora sí, accedemos al panel de control donde podemos administrar nuestra pagina.
+
+![w](wix3.png)
+
+Para crear tu página, puedes elegir plantillas o un asistente con IA. Yo he elegido una plantilla.
+
+Este es el editor de la pagina.
+
+![w](wix4.png)
+
+Una vez terminada, arriba a la derecha tenemos el botón de `publicar`. Al darle podemos utilizar un dominio gratis de Wix o nuestro dominio personalizado.
+
+![w](wix5.png)
+
+¡Hecho, ya está publicado!
